@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.13.4](https://github.com/shun-shobon/configs/compare/eslint-config-v0.13.3...eslint-config-v0.13.4) (2024-07-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-import-x to v0.5.3 ([#585](https://github.com/shun-shobon/configs/issues/585)) ([d95b393](https://github.com/shun-shobon/configs/commit/d95b393df32ea93dd2385468375c3dd46d8bd4e7))
+* **deps:** update dependency globals to v15.7.0 ([#581](https://github.com/shun-shobon/configs/issues/581)) ([16a2bde](https://github.com/shun-shobon/configs/commit/16a2bde1c23efd5fcdc6d90169a587ca86088cc1))
+* **deps:** update dependency globals to v15.8.0 ([#586](https://github.com/shun-shobon/configs/issues/586)) ([488aa66](https://github.com/shun-shobon/configs/commit/488aa66d3875213c85e61099e5223c5fd0b5ec7b))
+* **deps:** update dependency typescript-eslint to v7.14.0 ([#573](https://github.com/shun-shobon/configs/issues/573)) ([073070b](https://github.com/shun-shobon/configs/commit/073070b2e420c9dfee490a3e8d7eeeb112191543))
+* **deps:** update dependency typescript-eslint to v7.14.1 ([#575](https://github.com/shun-shobon/configs/issues/575)) ([8e93d68](https://github.com/shun-shobon/configs/commit/8e93d6827a169ceb62d5bf76eb7a851bbbb47ae1))
+* **deps:** update dependency typescript-eslint to v7.15.0 ([#583](https://github.com/shun-shobon/configs/issues/583)) ([708e551](https://github.com/shun-shobon/configs/commit/708e5513c56912e01b30f3af120d6e4b85ef3a88))
+* **deps:** update linters ([#580](https://github.com/shun-shobon/configs/issues/580)) ([4ed7f14](https://github.com/shun-shobon/configs/commit/4ed7f14e659f3bfc7aaa8e14bbc512482c59424d))
+
 ## [0.13.3](https://github.com/shun-shobon/configs/compare/eslint-config-v0.13.2...eslint-config-v0.13.3) (2024-06-24)
 
 
